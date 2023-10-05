@@ -21,6 +21,6 @@
 
 Таким образом, код проходит через даты, начиная с текущей даты и до начала следующего года, проверяет их дни недели и выводит даты, соответствующие указанному дню недели, в файл result.txt и на экран.
 =
-![image](https://github.com/jakxcvv/DateCalculator/assets/147064507/101dbe47-e1ac-473a-bc1e-1e9c6a6dc3d9)
+![image](https://github.com/jakxcvv/DateCalculator/assets/147064507/1a834e33-3671-4346-bf24-6d95d28e70c3)
 
 ![image](https://github.com/jakxcvv/DateCalculator/assets/147064507/6ad22476-a2f3-4961-bc38-3772ff3c26ae)
